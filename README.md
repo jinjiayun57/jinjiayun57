@@ -1,10 +1,9 @@
 ### Jiayun Jin
 
-Statistician and survey methodologist (PhD, KU Leuven), based in the Netherlands.
-My research is on measurement and data quality in surveys and other self-report data:
-how response processes such as midpoint and extreme responding shape observed answers,
-how response quality can be monitored during data collection, and how to adjust for
-selection in non-probability samples.
+Statistician and quantitative methodologist (PhD, KU Leuven), based in the Netherlands.
+I develop and evaluate statistical methods for measurement, data quality, and inference in social and behavioural research.
+My work includes latent-variable and item response models for understanding response heterogeneity, and nonparametric multivariate methods for monitoring data quality.
+Current projects evaluate weighting and doubly robust estimators for selection bias by simulation, and study representativeness and attrition in panel data.
 
 **Research code**
 
